@@ -5353,6 +5353,25 @@ gatsby-plugin-manifest@^2.11.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
+"gatsby-plugin-matomo-tagmanager@https://github.com/whitespace-se/matomo-tagmanager.git":
+  version "1.0.0"
+  resolved "https://github.com/whitespace-se/matomo-tagmanager.git#3cc2aa88c3643a5b46198e387ab77fbc6e6372d8"
+  dependencies:
+    dayjs "^1.10.4"
+    gatsby "^2.26.1"
+    gatsby-plugin-manifest "^2.11.0"
+    gatsby-plugin-matomo-tagmanager "git+ssh://git@github.com:whitespace-se/gatsby-plugin-matomo-tagmanager.git"
+    gatsby-plugin-offline "^3.9.0"
+    gatsby-plugin-react-helmet "^3.9.0"
+    gatsby-plugin-sass "^3.1.0"
+    gatsby-source-filesystem "^2.10.0"
+    gatsby-transformer-remark "^2.15.0"
+    react "^16.13.1"
+    react-copy-to-clipboard "^5.0.3"
+    react-dom "^16.13.1"
+    react-helmet "^6.1.0"
+    sass "^1.32.5"
+
 gatsby-plugin-offline@^3.9.0:
   version "3.10.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-3.10.0.tgz#b860ff5d630122b1603d7477f7962161622e0bc4"
