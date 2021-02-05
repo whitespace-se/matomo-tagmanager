@@ -5349,7 +5349,7 @@ gatsby-plugin-manifest@^2.11.0:
 
 "gatsby-plugin-matomo-tagmanager@https://github.com/whitespace-se/gatsby-plugin-matomo-tagmanager.git":
   version "2.12.0-next.0"
-  resolved "https://github.com/whitespace-se/gatsby-plugin-matomo-tagmanager.git#b46e91cf9643e520ef58b614c5fd2b4dc1df270e"
+  resolved "https://github.com/whitespace-se/gatsby-plugin-matomo-tagmanager.git#814e12e0fcd18b97ca8956dde61f98ec511f5bff"
   dependencies:
     "@babel/runtime" "^7.12.5"
 
