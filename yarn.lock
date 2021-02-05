@@ -65,9 +65,9 @@
     source-map "^0.5.0"
 
 "@babel/generator@^7.10.5", "@babel/generator@^7.12.13", "@babel/generator@^7.12.5":
-  version "7.12.13"
-  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.12.13.tgz#5f6ebe6c85db99886db2d7b044409196f872a503"
-  integrity sha512-9qQ8Fgo8HaSvHEt6A5+BATP7XktD/AdAnObUeTRz5/e2y3kbrxZgz32qUJJsdmwUvBJzF4AeV21nGTNwv05Mpw==
+  version "7.12.15"
+  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.12.15.tgz#4617b5d0b25cc572474cc1aafee1edeaf9b5368f"
+  integrity sha512-6F2xHxBiFXWNSGb7vyCUTBF8RCLY66rS0zEPcP8t/nQyXjha5EuK4z7H5o7fWG8B4M7y6mqVWq1J+1PuwRhecQ==
   dependencies:
     "@babel/types" "^7.12.13"
     jsesc "^2.5.1"
@@ -272,9 +272,9 @@
     js-tokens "^4.0.0"
 
 "@babel/parser@^7.10.5", "@babel/parser@^7.12.13", "@babel/parser@^7.12.5", "@babel/parser@^7.7.0":
-  version "7.12.14"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.12.14.tgz#4adb7c5eef1d437ef965ad1569cd826db8c11dc9"
-  integrity sha512-xcfxDq3OrBnDsA/Z8eK5/2iPcLD8qbOaSSfOw4RA6jp4i7e6dEQ7+wTwxItEwzcXPQcsry5nZk96gmVPKletjQ==
+  version "7.12.15"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.12.15.tgz#2b20de7f0b4b332d9b119dd9c33409c538b8aacf"
+  integrity sha512-AQBOU2Z9kWwSZMd6lNjCX0GUgFonL1wAM1db8L8PMk9UDaGsRCArBkU4Sc+UCM3AE4hjbXx+h58Lb3QT4oRmrA==
 
 "@babel/plugin-proposal-async-generator-functions@^7.12.13":
   version "7.12.13"
@@ -728,9 +728,9 @@
     "@babel/helper-plugin-utils" "^7.12.13"
 
 "@babel/plugin-transform-runtime@^7.12.1":
-  version "7.12.13"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.12.13.tgz#93a47630c80dab152a2b71011d1e1fd37b31b8e1"
-  integrity sha512-ho1CV2lm8qn2AxD3JdvPgtLVHCYLDaOszlf0gosdHcJAIfgNizag76WI+FoibrvfT+h117fgf8h+wgvo4O2qbA==
+  version "7.12.15"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.12.15.tgz#4337b2507288007c2b197059301aa0af8d90c085"
+  integrity sha512-OwptMSRnRWJo+tJ9v9wgAf72ydXWfYSXWhnQjZing8nGZSDFqU1MBleKM3+DriKkcbv7RagA8gVeB0A1PNlNow==
   dependencies:
     "@babel/helper-module-imports" "^7.12.13"
     "@babel/helper-plugin-utils" "^7.12.13"
@@ -915,9 +915,9 @@
     regenerator-runtime "^0.13.4"
 
 "@babel/standalone@^7.12.6":
-  version "7.12.14"
-  resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.12.14.tgz#6a0342e1d0a312673807cd83fda197c72fc65fc6"
-  integrity sha512-P8HrOZ8e8BTQW+/mVLlgBu/DSJFAqeQZ8gxIRjgbNB4CytXiEnqkUfOkXQppuCdSrO/DiF/zChTRhTYqBInspQ==
+  version "7.12.15"
+  resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.12.15.tgz#fade4ccb2af79c53300b8e71f4c1f0ecf59123e2"
+  integrity sha512-H4TLICPkno/jBZWW4SC3kVzK3ByrwtyANZ1gCgl4+01DuXDyUFTWqigYvd5vjuixzXfdkDodTvXhv5p249pQNw==
 
 "@babel/template@^7.10.4", "@babel/template@^7.12.13":
   version "7.12.13"
@@ -4160,9 +4160,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.649:
-  version "1.3.653"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.653.tgz#1d98400eba330538a7fe169808c6bf9d83c44450"
-  integrity sha512-LehOhcl74u9fkV9Un6WahJ+Xh+0FZLCCDnKYis1Olx1DX2ugRww5PJicE65OG8yznMj8EOQZRcz6FSV1xKxqsA==
+  version "1.3.654"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.654.tgz#f1b82d59bdeafa65af75794356df54f92b41c4de"
+  integrity sha512-Zy2gc/c8KYFg2GkNr7Ruzh5tPEZpFm7EyXqZTFasm1YRDJtpyBRGaOuM0H3t6SuIP53qX4kNmtO9t0WjhBjE9A==
 
 elliptic@^6.5.3:
   version "6.5.4"
@@ -5347,30 +5347,11 @@ gatsby-plugin-manifest@^2.11.0:
     semver "^7.3.2"
     sharp "^0.27.0"
 
-"gatsby-plugin-matomo-tagmanager@git+ssh://git@github.com:whitespace-se/gatsby-plugin-matomo-tagmanager.git":
+"gatsby-plugin-matomo-tagmanager@https://github.com/whitespace-se/gatsby-plugin-matomo-tagmanager.git":
   version "2.12.0-next.0"
-  resolved "git+ssh://git@github.com:whitespace-se/gatsby-plugin-matomo-tagmanager.git#0884aa622f16ff924723fc7a9dcb2e283d191b56"
+  resolved "https://github.com/whitespace-se/gatsby-plugin-matomo-tagmanager.git#b46e91cf9643e520ef58b614c5fd2b4dc1df270e"
   dependencies:
     "@babel/runtime" "^7.12.5"
-
-"gatsby-plugin-matomo-tagmanager@https://github.com/whitespace-se/matomo-tagmanager.git":
-  version "1.0.0"
-  resolved "https://github.com/whitespace-se/matomo-tagmanager.git#3cc2aa88c3643a5b46198e387ab77fbc6e6372d8"
-  dependencies:
-    dayjs "^1.10.4"
-    gatsby "^2.26.1"
-    gatsby-plugin-manifest "^2.11.0"
-    gatsby-plugin-matomo-tagmanager "git+ssh://git@github.com:whitespace-se/gatsby-plugin-matomo-tagmanager.git"
-    gatsby-plugin-offline "^3.9.0"
-    gatsby-plugin-react-helmet "^3.9.0"
-    gatsby-plugin-sass "^3.1.0"
-    gatsby-source-filesystem "^2.10.0"
-    gatsby-transformer-remark "^2.15.0"
-    react "^16.13.1"
-    react-copy-to-clipboard "^5.0.3"
-    react-dom "^16.13.1"
-    react-helmet "^6.1.0"
-    sass "^1.32.5"
 
 gatsby-plugin-offline@^3.9.0:
   version "3.10.0"
