@@ -7,9 +7,7 @@ const IndexPage = () => {
     <main className="main">
       <title>Matomo tagmanager</title>
       <h1 className="title">
-        <Link to="https://github.com/whitespace-se/matomo-loadtest">
-          Matomo tagmanager
-        </Link>
+        <Link to="/">Matomo tagmanager</Link>
       </h1>
 
       <div className="grid">
