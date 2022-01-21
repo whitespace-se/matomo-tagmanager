@@ -4,6 +4,7 @@
   "private": true,
   "description": "'Matomo tagmanager'",
   "author": "Whitespace AB",
+  "license": "AGPL",
   "keywords": [
     "gatsby"
   ],
